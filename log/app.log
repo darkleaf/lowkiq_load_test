@@ -1,0 +1,6 @@
+I, [2020-11-27T08:51:03.557920 #80521]  INFO -- : Starting DummyApiController generate_load method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447263557.896
+I, [2020-11-27T08:51:03.561249 #80521]  INFO -- : Completing DummyApiController generate_load method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447263561.2349, resp_time: 3.3388671875
+I, [2020-11-27T08:51:04.465242 #80529]  INFO -- : Starting Manager perform method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447264465.214
+I, [2020-11-27T08:51:04.467122 #80529]  INFO -- : Completing Manager perform method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447264467.1072, p_time: 1.89306640625
+I, [2020-11-27T08:51:05.435209 #80529]  INFO -- : Starting Processor perform method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447265435.188
+I, [2020-11-27T08:51:05.540540 #80529]  INFO -- : Completing Processor perform method, uuid: 00e5c1de-baef-47b5-8608-74b16893ee4f, at: 1606447265540.4702, p_time: 105.2822265625

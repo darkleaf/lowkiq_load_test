@@ -1,0 +1,15 @@
+defaults: &defaults
+  host: 0.0.0.0
+  port: 6379
+  username:
+  password:
+  namespace:
+    lowkiq: "lowkiq"
+    others: "others"
+development:
+  <<: *defaults
+  db: 9
+test:
+  <<: *defaults
+staging:
+  <<: *defaults
