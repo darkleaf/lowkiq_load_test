@@ -1,4 +1,16 @@
+=begin
 
+curl -XPOST 'http://localhost:7871/dummy_api/generate_load' -d '{
+ "a_id": 1,
+ "int_id": 2,
+ "string1": "str1",
+ "string2": "str2",
+ "string3": "str3",
+
+}'
+
+
+=end
 
 class DummyApiController < ApplicationController
   def generate_load
